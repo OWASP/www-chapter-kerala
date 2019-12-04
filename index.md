@@ -34,5 +34,5 @@ Web Applications Security Leaders, Software Engineers, Security Enthusiasts and 
 <strong>Conference Date:</strong> 16-Dec-2018
 
 
-Please submit your Profile and the paper abstract via email to <strong>[OWASP_CFP](mailto:owaspcfp@gmail.com).</strong>
+Please submit your Profile and the paper abstract via email to <strong>[OWASP CFP](mailto:owaspcfp@gmail.com).</strong>
 <hr>
