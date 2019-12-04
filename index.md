@@ -23,7 +23,7 @@ Would you like to speak on the upcoming OWASP Kerala AppSec Conference?
 Web Applications Security Leaders, Software Engineers, Security Enthusiasts and Researchers from all over the world are invited to be a part of the conference for the visibility and evolution in the safety and security of the world’s software.
 
 
-<strong>Important Dates:</strong>
+### Important Dates:
 
 <strong>CFP Opens:</strong> Wednesday, 14th November 2018 @ 9:00 AM IST
 
