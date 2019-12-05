@@ -16,11 +16,11 @@ tags: kerala
 
 **November 19th 2018**
 
-[OWASP Kerala Chapter Board Conference Planning Meeting]()
+[OWASP Kerala Chapter Board Conference Planning Meeting](19november2018)
 
 **November 12th 2018**
 
-[OWASP Kerala Chapter Board Planning Meeting]() 
+[OWASP Kerala Chapter Board Planning Meeting](12november2018) 
 
 **April 28th 2018**
 
