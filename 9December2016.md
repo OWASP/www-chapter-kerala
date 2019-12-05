@@ -1,14 +1,14 @@
 ---
 title: Kerala CODESEC dec 2016 cyberdome
 displaytext: Past Events
-author_image: /assets/images/Kerala_codesec_december_2016_flyer.jpg
-layout: blogpost
+layout: col-sidebar
 order: 4
 ---
 
-
+ 
 ## CODESEC - Secure your code, December 9th 2016 
 
+<img src="/assets/images/Kerala_codesec_december_2016_flyer.jpg" alt="CODSEC" >
 
 **Venue**
 
