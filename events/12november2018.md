@@ -1,11 +1,9 @@
 ---
-title: Past Events
+title: OWASP Kerala Chapter Board Planning Meeting
 displaytext: Past Events
-layout: blogpost
-order: 4
+layout: col-sidebar
+order: 2
 ---
-## OWASP Kerala Chapter Board Planning Meeting
-
 **Kerala chapter Board Planning Meeting Nov 2018 - AppFabs**
 
 1. OWASP Kerala Board has been restructured as follows:

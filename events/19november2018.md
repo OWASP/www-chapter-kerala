@@ -1,11 +1,9 @@
 ---
-title: Past Events
+title: OWASP Kerala Chapter Board Conference Planning Meeting
 displaytext: Past Events
-layout: blogpost
-order: 4
+layout: col-sidebar
+order: 2
 ---
-## OWASP Kerala Chapter Board Conference Planning Meeting
-
 1. The AppSec conference date has been postponed to 16-Dec-2018, Sunday.
 
 2. The posters will be redesigned by Sreenath for getting more attraction.
