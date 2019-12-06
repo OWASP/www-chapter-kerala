@@ -78,9 +78,9 @@ tags: kerala
 
    [OWASP Kerala Chapter Student outreach initiative September 15th 2015 @ LBS Institute of Technology for Women, Poojapura (2:00 PM to 3:30 PM )](events/15September2015)
 
-August 17th, 2015
+**August 17th, 2015**
 
-    OWASP Kerala Chapter Student outreach initiative August 17th 2015 @ Baselios Mathews II College of Engineering, Sasthamcotta (11:00 AM to 1:00 PM )
+  [OWASP Kerala Chapter Student outreach initiative August 17th 2015 @ Baselios Mathews II College of Engineering, Sasthamcotta (11:00 AM to 1:00 PM )](events/17August2015)
 
 July 10th, 2015
 
