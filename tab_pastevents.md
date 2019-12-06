@@ -1,7 +1,7 @@
 ---
 title: pastevents
 displaytext: Past Events
-layout:  blogpost
+layout: col-sidebar
 tab: true
 order: 2
 tags: kerala
@@ -16,23 +16,23 @@ tags: kerala
 
 **November 19th 2018**
 
-[OWASP Kerala Chapter Board Conference Planning Meeting](19november2018)
+[OWASP Kerala Chapter Board Conference Planning Meeting](/events/19november2018)
 
 **November 12th 2018**
 
-[OWASP Kerala Chapter Board Planning Meeting](12november2018) 
+[OWASP Kerala Chapter Board Planning Meeting](events/12november2018) 
 
 **April 28th 2018**
 
-[CODESEC - Policing the future, April 28th 2018 @ Zenith Hall, Bhavani, Technopark, Trivandrum]
+[CODESEC - Policing the future, April 28th 2018 @ Zenith Hall, Bhavani, Technopark, Trivandrum](/events/april2018)
 
 **March 10th 2018**
 
-[Panel Discussion on Web Privacy and Security at Doordarshan Kerala Samvadam (DD Malayalam) ]
+[Panel Discussion on Web Privacy and Security at Doordarshan Kerala Samvadam (DD Malayalam) ](/events/march2018)
 
 **January 10th 2018**
 
-[OWASP Kerala Chapter Board Planning Meeting]
+[OWASP Kerala Chapter Board Planning Meeting](/events/january2018)
 
 **September 8th 2017**
 
