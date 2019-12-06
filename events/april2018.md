@@ -5,7 +5,7 @@ layout: col-sidebar
 order: 2
 ---
 
-<a href="../index.html" class="previous">&laquo; Home</a>
+[Home](../index.html)
 
 # Kerala codesec april 2018 
 
