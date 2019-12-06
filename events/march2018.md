@@ -4,12 +4,13 @@ displaytext: Past Events
 layout: col-sidebar
 order: 2
 ---
-<a href="../index.html" class="previous">&laquo; Home</a>
+[Home](../index.html)
 
 ## Pictures
 
-<img src="/assets/images/panel1.png" alt="panel Discussion">
+![panel Discussion](/assets/images/panel1.png)
 
-<img src="/assets/images/panel2.png" alt="panel Discussion">
+![panel Discussion](/assets/images/panel2.png)
 
-<img src="/assets/images/panel2.png" alt="panel Discussion">
+![panel Discussion](/assets/images/panel3.jpg)
+
