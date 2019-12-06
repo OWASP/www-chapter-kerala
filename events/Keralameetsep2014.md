@@ -33,11 +33,11 @@ order: 2
 
 **Event Registratoin URL [Here](https://www.eventbrite.com/e/owasp-kerala-meet-sep-2014-tickets-12971998597)**
 
-![Banner](assets/images/Kerala_meet_sep_2014.jpg)
+![Banner](../assets/images/Kerala_meet_sep_2014.jpg)
 
 **Event Sponser**
 
-![Banner](assets/images/Kerala_event_sponser_sep_2014.png)
+![Banner](../assets/images/Kerala_event_sponser_sep_2014.png)
 
 **Event Gallery**
 
