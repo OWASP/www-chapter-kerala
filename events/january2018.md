@@ -12,13 +12,9 @@ order: 2
 **Date and Time:** 10 - January - 2018 at 6 PM Venue: Meeting Hall, Faya, Technopark Participants: Rejah, Binu, Rajesh, Jithin, Vignesh, Arun, Hemanth, Adarsh, Jewel Agenda:
 
    1. Prayer
-
    2. Summary of activities conducted by OWASP Kerala so far
-
    3. Restructuring of OWASP Kerala Chapter Board
-
    4. Event calendar
-
    5. Any other relevant matter to be discussed
 
 
