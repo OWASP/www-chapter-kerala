@@ -33,12 +33,12 @@ Speaker: Rajesh is a passionate secure software programmer, technology evangelis
 **Event Gallery**
 
 <div class="col">
-	<a href="/assets/images/Kerala_dec_2014_internet_security_1.png.jpeg" target="new"><img src="/assets/images/Kerala_dec_2014_internet_security_1.png.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Rajesh Nair" /></a>
-	<a href="/assets/images/Kerala_dec_2014_internet_security_2.png.jpeg" target="new"><img src="/assets/images/Kerala_dec_2014_internet_security_2.png.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Sajith Shetty - Welcome speech"/></a>
-	<a href="/assets/images/Kerala_dec_2014_internet_security_3.png.jpeg" target="new"><img src="/assets/images/Kerala_dec_2014_internet_security_3.png.jpeg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience"/></a>
+	<a href="../assets/images/Kerala_dec_2014_internet_security_1.png.jpeg" target="new"><img src="../assets/images/Kerala_dec_2014_internet_security_1.png.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Rajesh Nair" title="Rajesh Nair"/></a>
+	<a href="../assets/images/Kerala_dec_2014_internet_security_2.png.jpeg" target="new"><img src="../assets/images/Kerala_dec_2014_internet_security_2.png.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Sajith Shetty - Welcome speech" title="Rajesh Nair"/></a>
+	<a href="assets/images/Kerala_dec_2014_internet_security_3.png.jpeg" target="new"><img src="../assets/images/Kerala_dec_2014_internet_security_3.png.jpeg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" title="Rajesh Nair"/></a>
 </div>
 <div class="col">
-	<a href="/assets/images/Kerala_dec_2014_internet_security_4.png.jpeg" target="new"><img src="/assets/images/Kerala_dec_2014_internet_security_4.png.jpeg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience"/></a>
+	<a href="../assets/images/Kerala_dec_2014_internet_security_4.png.jpeg" target="new"><img src="../assets/images/Kerala_dec_2014_internet_security_4.png.jpeg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" title="Rajesh Nair"/></a>
 </div>
 
 
