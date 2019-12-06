@@ -96,11 +96,11 @@ February 20th, 2015
 
 **December 3rd, 2014**
 
-[Latest trends and challenges in Internet Security @ Institution of Engineers Hall (Visvesvaraya Bhavan), Trivandrum, Kerala (4:00 PM to 6:00 PM)](events/Keraladec2014internetsecurity.html)
+[Latest trends and challenges in Internet Security @ Institution of Engineers Hall (Visvesvaraya Bhavan), Trivandrum, Kerala (4:00 PM to 6:00 PM)](events/Keraladec2014internetsecurity)
 
 **September 25th, 2014**
 
-[OWASP Kerala Meet September 2014 @ DBG, Thejaswini, Technopark , Kerala (5:00 PM to 8:00 PM)](events/Keralameetsep2014.html)
+[OWASP Kerala Meet September 2014 @ DBG, Thejaswini, Technopark , Kerala (5:00 PM to 8:00 PM)](events/Keralameetsep2014)
 
 **August 25th, 2014**
 

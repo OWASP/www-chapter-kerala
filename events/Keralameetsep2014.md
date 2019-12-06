@@ -4,7 +4,7 @@ displaytext: Past Events
 layout: col-sidebar
 order: 2
 ---
-<a href="../index.html" class="previous">&laquo; Home</a>
+[Home](../index.html)
 
 **Venue**
 
@@ -33,11 +33,11 @@ order: 2
 
 **Event Registratoin URL [Here](https://www.eventbrite.com/e/owasp-kerala-meet-sep-2014-tickets-12971998597)**
 
-<img src="/assets/images/Kerala_meet_sep_2014.jpg" alt="Kerala_meet_sep_2014" width="auto">
+![Banner](/assets/images/Kerala_meet_sep_2014.jpg)
 
 **Event Sponser**
 
-<img src="/assets/images/Kerala_event_sponser_sep_2014.png" alt="Kerala_meet_sep_2014">
+![Banner](/assets/images/Kerala_event_sponser_sep_2014.png)
 
 **Event Gallery**
 
