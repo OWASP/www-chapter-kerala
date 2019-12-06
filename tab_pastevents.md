@@ -40,47 +40,47 @@ tags: kerala
 
 **December 9th 2016**
 
-[CODESEC - Secure your code, December 9th 2016 @ Travencore Hall, Park Center, Technopark, Trivandrum](9December2016)
+[CODESEC - Secure your code, December 9th 2016 @ Travencore Hall, Park Center, Technopark, Trivandrum](events/9December2016)
 
 **November 3rd 2016**
 
-[OWASP Kerala Chapter Meet, November 3rd 2016 @ Central Computing Facility [CCF], IIITM-K, Technopark Campus, Trivandrum](/3November2016.html)
+[OWASP Kerala Chapter Meet, November 3rd 2016 @ Central Computing Facility [CCF], IIITM-K, Technopark Campus, Trivandrum](events/3November2016)
 
 **October 7th 2016**
 
-  Session on Basics of Network Security - Govt College of Engineering, Barton Hill, Trivandrum on behalf of Kerala Police Cyberdome.
+  [Session on Basics of Network Security - Govt College of Engineering, Barton Hill, Trivandrum on behalf of Kerala Police Cyberdome]()
 
 **March 29th to March 31st 2016**
 
-  [Three day short course on web application security for government employees, March 29th - 31st 2016 @ Central Computing Facility [CCF], IIITM-K, Technopark Campus, Trivandrum](2931March2016)
+  [Three day short course on web application security for government employees, March 29th - 31st 2016 @ Central Computing Facility [CCF], IIITM-K, Technopark Campus, Trivandrum](events/2931March2016)
 
-March 9th, 2016
+**March 9th, 2016**
 
-  [Seminar on Architecting a Safer Internet March 9th 2016 @ TKM College of Engineering, Quilon (3:30 AM to 5:30 PM )](9March2016)
+  [Seminar on Architecting a Safer Internet March 9th 2016 @ TKM College of Engineering, Quilon (3:30 AM to 5:30 PM )](events/9March2016)
 
-February 26th, 2016
+**February 26th, 2016**
 
-    OWASP @ 2016: Building a Secure Internet (Student outreach initiative) February 26th 2016 @ Sarabhai Institute of Science and Technology, Uriyacode, Vellanad, Trivandrum (10:00 AM to 1:00 PM )
+   [OWASP @ 2016: Building a Secure Internet (Student outreach initiative) February 26th 2016 @ Sarabhai Institute of Science and Technology, Uriyacode, Vellanad, Trivandrum (10:00 AM to 1:00 PM )]()
 
-December 3rd, 2015
+**December 3rd, 2015**
 
-   [Panel Discussion on Mobile Application Security December 3rd 2015 @ Trivandrum Tamil Sangam (11:00 AM to 1:00 PM )](3December2015)
+   [Panel Discussion on Mobile Application Security December 3rd 2015 @ Trivandrum Tamil Sangam (11:00 AM to 1:00 PM )](events/3December2015)
 
-November 18th, 2015
+**November 18th, 2015**
 
-    Sec_rity is not without U November 18th 2015 @ Institution of Engineers (India), Kerala State Centre, Trivandrum (3:00 PM to 5:00 PM )
+   [Sec_rity is not without U November 18th 2015 @ Institution of Engineers (India), Kerala State Centre, Trivandrum (3:00 PM to 5:00 PM )](events/18November2015)
 
-October 7th, 2015
+**October 7th, 2015**
 
-    OWASP Kerala Chapter Student outreach initiative October 7th 2015 @ PRS College of Engineering and Technology, Paliyode, Trivandrum (10:00 AM to 5:00 PM )
+   [OWASP Kerala Chapter Student outreach initiative October 7th 2015 @ PRS College of Engineering and Technology, Paliyode, Trivandrum (10:00 AM to 5:00 PM )](events/7October2015)
 
-September 15th, 2015
+**September 15th, 2015**
 
-    OWASP Kerala Chapter Student outreach initiative September 15th 2015 @ LBS Institute of Technology for Women, Poojapura (2:00 PM to 3:30 PM )
+   [OWASP Kerala Chapter Student outreach initiative September 15th 2015 @ LBS Institute of Technology for Women, Poojapura (2:00 PM to 3:30 PM )](events/15September2015)
 
-August 17th, 2015
+**August 17th, 2015**
 
-    OWASP Kerala Chapter Student outreach initiative August 17th 2015 @ Baselios Mathews II College of Engineering, Sasthamcotta (11:00 AM to 1:00 PM )
+  [OWASP Kerala Chapter Student outreach initiative August 17th 2015 @ Baselios Mathews II College of Engineering, Sasthamcotta (11:00 AM to 1:00 PM )](events/17August2015)
 
 July 10th, 2015
 
