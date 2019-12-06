@@ -4,7 +4,7 @@ displaytext: Past Events
 layout: col-sidebar
 order: 2
 ---
-<a href="../index.html" class="previous">&laquo; Home</a>
+[Home](../index.html)
 
 
 **Following are the minutes of the meeting held on Jan 10, 2018 at Faya, Technopark**
