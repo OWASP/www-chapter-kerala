@@ -33,32 +33,32 @@ order: 2
 
 **Event Registratoin URL [Here](https://www.eventbrite.com/e/owasp-kerala-meet-sep-2014-tickets-12971998597)**
 
-![Banner](/assets/images/Kerala_meet_sep_2014.jpg)
+![Banner](assets/images/Kerala_meet_sep_2014.jpg)
 
 **Event Sponser**
 
-![Banner](/assets/images/Kerala_event_sponser_sep_2014.png)
+![Banner](assets/images/Kerala_event_sponser_sep_2014.png)
 
 **Event Gallery**
 
 <div class="col">
-	<a href="/assets/images/Kerala_meet_sep_2014_1.png.jpeg" target="new"><img src="/assets/images/Kerala_meet_sep_2014_1.png.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" /></a>
-	<a href="/assets/images/Kerala_meet_sep_2014_2.png.jpeg" target="new"><img src="/assets/images/Kerala_meet_sep_2014_2.png.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Sajith Shetty - Welcome speech"/></a>
-	<a href="/assets/images/Kerala_meet_sep_2014_3.png" target="new"><img src="/assets/images/Kerala_meet_sep_2014_3.png"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Vishnu P - Delivering session"/></a>
+	<a href="../assets/images/Kerala_meet_sep_2014_1.png.jpeg" target="new"><img src="../assets/images/Kerala_meet_sep_2014_1.png.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" title="Audience"/></a>
+	<a href="../assets/images/Kerala_meet_sep_2014_2.png.jpeg" target="new"><img src="../assets/images/Kerala_meet_sep_2014_2.png.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Sajith Shetty - Welcome speech" title="Sajith Shetty - Welcome speech"/></a>
+	<a href="../assets/images/Kerala_meet_sep_2014_3.png" target="new"><img src="../assets/images/Kerala_meet_sep_2014_3.png"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Vishnu P - Delivering session" title="Vishnu P - Delivering session"/></a>
 </div>
 <div class="col">
-	<a href="/assets/images/Kerala_meet_sep_2014_4.png" target="new"><img src="/assets/images/Kerala_meet_sep_2014_4.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" /></a>
-	<a href="/assets/images/Kerala_meet_sep_2014_5.png" target="new"><img src="/assets/images/Kerala_meet_sep_2014_5.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Name Badges"/></a>
-	<a href="/assets/images/Kerala_meet_sep_2014_6.png" target="new"><img src="/assets/images/Kerala_meet_sep_2014_6.png"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Going live"/></a>
+	<a href="../assets/images/Kerala_meet_sep_2014_4.png" target="new"><img src="../assets/images/Kerala_meet_sep_2014_4.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" title="Audience"/></a>
+	<a href="../assets/images/Kerala_meet_sep_2014_5.png" target="new"><img src="../assets/images/Kerala_meet_sep_2014_5.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Name Badges" title="Name Badges"/></a>
+	<a href="../assets/images/Kerala_meet_sep_2014_6.png" target="new"><img src="../assets/images/Kerala_meet_sep_2014_6.png"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Going live" title="Going live"/></a>
 </div>
 <div class="col">
-	<a href="/assets/images/Kerala_meet_sep_2014_7.png" target="new"><img src="/assets/images/Kerala_meet_sep_2014_7.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" /></a>
-	<a href="/assets/images/Kerala_meet_sep_2014_8.png" target="new"><img src="/assets/images/Kerala_meet_sep_2014_8.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Name Badges"/></a>
-	<a href="/assets/images/Kerala_meet_sep_2014_9.png" target="new"><img src="/assets/images/Kerala_meet_sep_2014_9.png"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Going live"/></a>
+	<a href="../assets/images/Kerala_meet_sep_2014_7.png" target="new"><img src="../assets/images/Kerala_meet_sep_2014_7.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" title="Audience"/></a>
+	<a href="../assets/images/Kerala_meet_sep_2014_8.png" target="new"><img src="../assets/images/Kerala_meet_sep_2014_8.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Name Badges" title="Name Badges"/></a>
+	<a href="../assets/images/Kerala_meet_sep_2014_9.png" target="new"><img src="../assets/images/Kerala_meet_sep_2014_9.png"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Going live" title="Going live"/></a>
 </div>
 <div class="col">
-	<a href="/assets/images/Kerala_meet_sep_2014_10.png" target="new"><img src="/assets/images/Kerala_meet_sep_2014_10.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" /></a>
-	<a href="/assets/images/Kerala_meet_sep_2014_11.png" target="new"><img src="/assets/images/Kerala_meet_sep_2014_11.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Name Badges"/></a>
+	<a href="../assets/images/Kerala_meet_sep_2014_10.png" target="new"><img src="../assets/images/Kerala_meet_sep_2014_10.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" title="Audience"/></a>
+	<a href="../assets/images/Kerala_meet_sep_2014_11.png" target="new"><img src="../assets/images/Kerala_meet_sep_2014_11.png" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Name Badges" title="Name Badges"/></a>
 </div>
 
 **Video**
