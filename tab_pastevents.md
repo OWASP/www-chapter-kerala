@@ -88,11 +88,11 @@ July 10th, 2015
 
 April 10th, 2015
 
-    OWASP Kerala Chapter Meet April 10th 2015 @ Central Computing Facility [CCF], IIITM-K, Technopark Campus, Trivandrum (2:30 PM to 5:30 PM )
+  [OWASP Kerala Chapter Meet April 10th 2015 @ Central Computing Facility [CCF], IIITM-K, Technopark Campus, Trivandrum (2:30 PM to 5:30 PM )](events/april2015)
 
 February 20th, 2015
 
-    Green Contributions of Application Security @ Heera College of Engineering and Technology, Trivandrum, Kerala (10:00 AM to 12:00 PM)
+  [Green Contributions of Application Security @ Heera College of Engineering and Technology, Trivandrum, Kerala (10:00 AM to 12:00 PM)](events/february2015)
 
 December 3rd, 2014
 
@@ -108,13 +108,13 @@ August 25th, 2014
 
 2013
 
-    July 29th, 2013 "Big Data , Virtualisation - Security Challenges" - Mr Anu L Shashidaran @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
+  July 29th, 2013 "Big Data , Virtualisation - Security Challenges" - Mr Anu L Shashidaran @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
 
 
-    June 27th, 2013 "Indian Cyber Laws" - Mr Bejoy @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
+  June 27th, 2013 "Indian Cyber Laws" - Mr Bejoy @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
 
 
-    April 25th, 2013 "Exploiting Hosted networks" - Mr Melvin John S @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
+  April 25th, 2013 "Exploiting Hosted networks" - Mr Melvin John S @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
 
 
-    January 31st, 2013 "The art of Social Engineering" - Mr Danesh Elias @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
+  January 31st, 2013 "The art of Social Engineering" - Mr Danesh Elias @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
