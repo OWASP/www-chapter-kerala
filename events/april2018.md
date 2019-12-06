@@ -9,7 +9,7 @@ order: 2
 
 # Kerala codesec april 2018 
 
-<img src="/assets/images/april2018.jpg" alt="CODESEC" width="auto">
+<img src="../assets/images/april2018.jpg" alt="CODESEC" width="auto">
 
 **Venue**
 

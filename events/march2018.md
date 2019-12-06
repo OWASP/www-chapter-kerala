@@ -8,9 +8,9 @@ order: 2
 
 ## Pictures
 
-![panel Discussion](/assets/images/panel1.png)
+![panel Discussion](../assets/images/panel1.png)
 
-![panel Discussion](/assets/images/panel2.png)
+![panel Discussion](../assets/images/panel2.png)
 
-![panel Discussion](/assets/images/panel3.jpg)
+![panel Discussion](../assets/images/panel3.jpg)
 

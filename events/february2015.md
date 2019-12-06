@@ -28,4 +28,4 @@ OWASP Kerala Chapter associated with Heera College of Engineering and Technology
 
 **Event Gallery**
 
-![Banner](/assets/images/february.jpeg)
+![Banner](../assets/images/february.jpeg)

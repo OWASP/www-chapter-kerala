@@ -7,7 +7,7 @@ order: 2
 
 [Home](../index.html)
 
-![Kerala chapter meet apr 2015](/assets/images/april2015.jpg)
+![Kerala chapter meet apr 2015](../assets/images/april2015.jpg)
 
 
 ## OWASP Kerala Chapter Meet
@@ -60,12 +60,12 @@ Video will upload soon
 <!-- ![Event](/assets/images/1aprilevent15.jpeg)    ![Event](/assets/images/2aprilevent15.jpeg)
  -->
 <div class="col">
-	<a href="/assets/images/3aprilevent15.jpeg" target="new"><img src="/assets/images/3aprilevent15.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Sreenath Sasikumar"/></a>
-	<a href="/assets/images/2aprilevent15.jpeg" target="new"><img src="/assets/images/2aprilevent15.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Audience"/></a>
-	<a href="/assets/images/1aprilevent15.jpeg" target="new"><img src="/assets/images/1aprilevent15.jpeg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Sreenath Sasikumar"/></a>
+	<a href="../assets/images/3aprilevent15.jpeg" target="new"><img src="../assets/images/3aprilevent15.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Sreenath Sasikumar"/></a>
+	<a href="../assets/images/2aprilevent15.jpeg" target="new"><img src="../assets/images/2aprilevent15.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Audience"/></a>
+	<a href="../assets/images/1aprilevent15.jpeg" target="new"><img src="../assets/images/1aprilevent15.jpeg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Sreenath Sasikumar"/></a>
 </div>
 <div class="col">
-	<a href="/assets/images/4aprilevent15.jpeg" target="new"><img src="/assets/images/4aprilevent15.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Rajesh Nair"/></a>
-	<a href="/assets/images/5aprilevent15.jpeg" target="new"><img src="/assets/images/5aprilevent15.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Audience"/></a>
-	<a href="/assets/images/6aprilevent15.jpeg" target="new"><img src="/assets/images/6aprilevent15.jpeg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Rajesh Nair"/></a>
+	<a href="../assets/images/4aprilevent15.jpeg" target="new"><img src="../assets/images/4aprilevent15.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Rajesh Nair"/></a>
+	<a href="../assets/images/5aprilevent15.jpeg" target="new"><img src="../assets/images/5aprilevent15.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Audience"/></a>
+	<a href="../assets/images/6aprilevent15.jpeg" target="new"><img src="../assets/images/6aprilevent15.jpeg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Event" title="Rajesh Nair"/></a>
 </div>

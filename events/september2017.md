@@ -8,7 +8,7 @@ order: 2
 
 ### OWASP Kerala Workshop on Android Pen testing, September 2017
 
-![OWASP Kerala Workshop](/assets/images/september.jpg)
+![OWASP Kerala Workshop](../assets/images/september.jpg)
 
 
 Being the Operating System with the largest user-base, the threat landscape for Android applications cannot often be ignored. While Android OS is being used in a wide variety of devices from smart watches to TVs, a large chunk of its user-base is concentrated to mobile phones. Popular services which were offered over web are also trying constantly to adapt themselves for the mobile environment. This raises a few important questions to Information Security enthusiasts.
