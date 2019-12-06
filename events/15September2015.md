@@ -41,16 +41,16 @@ order: 2
  **Event gallery**
  
  <div class="col">
-	<a href="/assets/images/poojapura_1.jpeg" target="new"><img src="/assets/images/poojapura_1.jpeg" 
+	<a href="../assets/images/poojapura_1.jpeg" target="new"><img src="../assets/images/poojapura_1.jpeg" 
 		style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Team" title="Team"/></a>
-	<a href="/assets/images/poojapura_2.jpeg" target="new"><img src="/assets/images/poojapura_2.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Rejah Rehim" title="Rejah Rehim" /></a>
-	<a href="/assets/images/poojapura_3.jpeg" target="new"><img src="/assets/images/poojapura_3.jpeg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" title="Audience" /></a>
+	<a href="../assets/images/poojapura_2.jpeg" target="new"><img src="../assets/images/poojapura_2.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Rejah Rehim" title="Rejah Rehim" /></a>
+	<a href="../assets/images/poojapura_3.jpeg" target="new"><img src="../assets/images/poojapura_3.jpeg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" title="Audience" /></a>
 </div> 
 
 <div class="col">
-	<a href="/assets/images/poojapura_5.jpeg" target="new"><img 
-		src="/assets/images/poojapura_5.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Sreenath Sasikumar" title="Sreenath Sasikumar"/></a>
-	<a href="/assets/images/poojapura_7.jpeg" target="new"><img src="/assets/images/poojapura_7.jpeg" 
+	<a href="../assets/images/poojapura_5.jpeg" target="new"><img 
+		src="../assets/images/poojapura_5.jpeg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Sreenath Sasikumar" title="Sreenath Sasikumar"/></a>
+	<a href="../assets/images/poojapura_7.jpeg" target="new"><img src="../assets/images/poojapura_7.jpeg" 
 		style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Rajesh P" title="Rajesh P" /></a>
 </div> 
 
