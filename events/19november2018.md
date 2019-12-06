@@ -4,7 +4,7 @@ displaytext: Past Events
 layout: col-sidebar
 order: 2
 ---
-<a href="../index.html" class="previous">&laquo; Home</a>
+[Home](../index.html)
 
 1. The AppSec conference date has been postponed to 16-Dec-2018, Sunday.
 
