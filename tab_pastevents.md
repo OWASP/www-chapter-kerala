@@ -12,11 +12,11 @@ tags: kerala
 
 **June 8th 2019**
 
-[OWASP Kerala Women in Appsec Meet, June 8th 2019 @ Meet-up Cafe, KSUM, Thejaswini building, Technopark](june2019)
+[OWASP Kerala Women in Appsec Meet, June 8th 2019 @ Meet-up Cafe, KSUM, Thejaswini building, Technopark](events/june2019)
 
 **November 19th 2018**
 
-[OWASP Kerala Chapter Board Conference Planning Meeting](/events/19november2018)
+[OWASP Kerala Chapter Board Conference Planning Meeting](events/19november2018)
 
 **November 12th 2018**
 
@@ -24,19 +24,19 @@ tags: kerala
 
 **April 28th 2018**
 
-[CODESEC - Policing the future, April 28th 2018 @ Zenith Hall, Bhavani, Technopark, Trivandrum](/events/april2018)
+[CODESEC - Policing the future, April 28th 2018 @ Zenith Hall, Bhavani, Technopark, Trivandrum](events/april2018)
 
 **March 10th 2018**
 
-[Panel Discussion on Web Privacy and Security at Doordarshan Kerala Samvadam (DD Malayalam) ](/events/march2018)
+[Panel Discussion on Web Privacy and Security at Doordarshan Kerala Samvadam (DD Malayalam) ](events/march2018)
 
 **January 10th 2018**
 
-[OWASP Kerala Chapter Board Planning Meeting](/events/january2018)
+[OWASP Kerala Chapter Board Planning Meeting](events/january2018)
 
 **September 8th 2017**
 
-[OWASP Kerala Chapter Workshop On Android Pen Testing, September 8th 2017 @ Central Computing Facility [CCF], IIITM-K, Technopark Campus, Trivandrum]
+[OWASP Kerala Chapter Workshop On Android Pen Testing, September 8th 2017 @ Central Computing Facility [CCF], IIITM-K, Technopark Campus, Trivandrum](events/september2017)
 
 **December 9th 2016**
 

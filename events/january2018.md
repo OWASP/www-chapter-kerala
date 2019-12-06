@@ -4,9 +4,12 @@ displaytext: Past Events
 layout: col-sidebar
 order: 2
 ---
-Following are the minutes of the meeting held on Jan 10, 2018 at Faya, Technopark.
+<a href="../index.html" class="previous">&laquo; Home</a>
 
-Date and Time: 10 - January - 2018 at 6 PM Venue: Meeting Hall, Faya, Technopark Participants: Rejah, Binu, Rajesh, Jithin, Vignesh, Arun, Hemanth, Adarsh, Jewel Agenda:
+
+**Following are the minutes of the meeting held on Jan 10, 2018 at Faya, Technopark**
+
+**Date and Time:** 10 - January - 2018 at 6 PM Venue: Meeting Hall, Faya, Technopark Participants: Rejah, Binu, Rajesh, Jithin, Vignesh, Arun, Hemanth, Adarsh, Jewel Agenda:
 
    1. Prayer
 
