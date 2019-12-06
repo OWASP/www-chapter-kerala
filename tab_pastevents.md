@@ -16,7 +16,7 @@ tags: kerala
 
 **November 19th 2018**
 
-[OWASP Kerala Chapter Board Conference Planning Meeting](/events/19november2018)
+[OWASP Kerala Chapter Board Conference Planning Meeting](events/19november2018)
 
 **November 12th 2018**
 
@@ -94,27 +94,27 @@ February 20th, 2015
 
     Green Contributions of Application Security @ Heera College of Engineering and Technology, Trivandrum, Kerala (10:00 AM to 12:00 PM)
 
-December 3rd, 2014
+**December 3rd, 2014**
 
-    Latest trends and challenges in Internet Security @ Institution of Engineers Hall (Visvesvaraya Bhavan), Trivandrum, Kerala (4:00 PM to 6:00 PM)
+[Latest trends and challenges in Internet Security @ Institution of Engineers Hall (Visvesvaraya Bhavan), Trivandrum, Kerala (4:00 PM to 6:00 PM)](events/Keraladec2014internetsecurity)
 
-September 25th, 2014
+**September 25th, 2014**
 
-    OWASP Kerala Meet September 2014 @ DBG, Thejaswini, Technopark , Kerala (5:00 PM to 8:00 PM)
+[OWASP Kerala Meet September 2014 @ DBG, Thejaswini, Technopark , Kerala (5:00 PM to 8:00 PM)](events/Keralameetsep2014)
 
-August 25th, 2014
+**August 25th, 2014**
 
-    OWASP Kerala Chapter Board Meeting @ DBG, Thejaswini, Technopark , Kerala (6:00 PM to 6:30 PM)
+OWASP Kerala Chapter Board Meeting @ DBG, Thejaswini, Technopark , Kerala (6:00 PM to 6:30 PM)
 
-2013
+**2013**
 
-    July 29th, 2013 "Big Data , Virtualisation - Security Challenges" - Mr Anu L Shashidaran @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
-
-
-    June 27th, 2013 "Indian Cyber Laws" - Mr Bejoy @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
+July 29th, 2013 "Big Data , Virtualisation - Security Challenges" - Mr Anu L Shashidaran @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
 
 
-    April 25th, 2013 "Exploiting Hosted networks" - Mr Melvin John S @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
+June 27th, 2013 "Indian Cyber Laws" - Mr Bejoy @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
 
 
-    January 31st, 2013 "The art of Social Engineering" - Mr Danesh Elias @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
+April 25th, 2013 "Exploiting Hosted networks" - Mr Melvin John S @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
+
+
+January 31st, 2013 "The art of Social Engineering" - Mr Danesh Elias @ Mirox , Nila, Technopark , Kerala (3 pm to 6 pm)
