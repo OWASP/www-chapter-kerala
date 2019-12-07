@@ -32,3 +32,14 @@ order: 2
    * 10:50 pm to 11:30 pm - OWASP Top 10 Vulnerabilities
         
    Speaker:Rajesh P - Technical Consultant
+
+
+**Event Gallery**
+<div class="col">
+	<a href="../assets/images/oct_2015.jpg" target="new"><img src="../assets/images/oct_2015.jpg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Audience" title="Audience"/></a>
+	<a href="../assets/images/oct_2015_1.jpg" target="new"><img src="../assets/images/oct_2015_1.jpg" style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Sreenath sasikumar" title="Sreenath Sasikumar" /></a>
+	<a href="../assets/images/oct_2015_2.jpg" target="new"><img src="../assets/images/oct_2015_2.jpg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Team" title="Team" /></a>
+	<a href="../assets/images/oct_2015_3.jpg" target="new"><img src="../assets/images/oct_2015_3.jpg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Team" title="Team" /></a>   
+	<a href="../assets/images/oct_2015_4.jpg" target="new"><img src="../assets/images/oct_2015_4.jpg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Team" title="Team" /></a>  
+	<a href="../assets/images/oct_2015_5.jpg" target="new"><img src="../assets/images/oct_2015_5.jpg"  style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="Team" title="Team" /></a>  
+</div> 
