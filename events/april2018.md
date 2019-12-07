@@ -5,11 +5,11 @@ layout: col-sidebar
 order: 2
 ---
 
-<a href="../index.html" class="previous">&laquo; Home</a>
+[Home](../index.html)
 
 # Kerala codesec april 2018 
 
-<img src="/assets/images/april2018.jpg" alt="CODESEC" width="auto">
+<img src="../assets/images/april2018.jpg" alt="CODESEC" width="auto">
 
 **Venue**
 
