@@ -52,8 +52,8 @@ Info-security enthusiast, student, pen-tester and a consultant based out of Bost
 **Event gallery**
 
 <div class="col">
-	<a href="../assets/images/september_2017.jpg" target="new"><img src="../assets/images/september_2017.jpg" style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Audience" title="Audience"/></a>
-	<a href="../assets/images/september_2017_1.jpg" target="new"><img src="../assets/images/september_2017_1.jpg" style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Sreenath sasikumar" title="Sreenath Sasikumar" /></a>
-	<a href="../assets/images/september_2017_2.jpg" target="new"><img src="../assets/images/september_2017_2.jpg"  style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Team" title="Team" /></a>
-	<a href="../assets/images/september_2017_3.jpg" target="new"><img src="../assets/images/september_2017_3.jpg"  style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Team" title="Team" /></a>
+	<a href="../assets/images/september_2017.jpg" target="new"><img src="../assets/images/september_2017.jpg" style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Roshan Thomas" title="Roshan Thomas"/></a>
+	<a href="../assets/images/september_2017_1.jpg" target="new"><img src="../assets/images/september_2017_1.jpg" style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Audience" title="Audience" /></a>
+	<a href="../assets/images/september_2017_2.jpg" target="new"><img src="../assets/images/september_2017_2.jpg"  style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Audience" title="Audience" /></a>
+	<a href="../assets/images/september_2017_3.jpg" target="new"><img src="../assets/images/september_2017_3.jpg"  style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Audience" title="Audience" /></a>
 </div> 

@@ -8,8 +8,7 @@ order: 2
 
 [Home](../index.html)
 
-<img src="/assets/images/dec_2015.png" alt="Panel Discussion on Mobile Application Security Tamil Sangam">
-
+![Panel Discussion on Mobile Application Security Tamil Sangam](../assets/images/dec_2015.png)
 
 ## OWASP Kerala Chapter Panel Discussion on Mobile Application Security @ Trivandrum Tamil Sangam
 
@@ -37,8 +36,10 @@ order: 2
 
 **Event gallery**
  
- <div class="col">
-   <a href="../assets/images/dec_2015_1.jpg" target="new"><img src="../assets/images/dec_2015_1.jpg"   style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="session at Tamil Sangham" title="session"/></a>
-   <a href="../assets/images/dec_2015_2.jpg" target="new"><img src="../assets/images/dec_2015_2.jpg"   style="display: inline-block;max-width: 98%;height: auto;width: 30%;margin: 1%;" alt="session at Tamil sangham" title="session" /></a>
+<div class="col">
+   
+<a href="../assets/images/dec_2015_1.jpg" target="new"><img src="../assets/images/dec_2015_1.jpg"   style="display: inline-block;max-width: 98%;height:40%;width: 30%;margin: 1%;"/></a> 
+
+<a href="../assets/images/dec_2015_2.jpg" target="new"><img src="../assets/images/dec_2015_2.jpg"   style="display: inline-block;max-width: 98%;height: 40%;width: 30%;margin: 1%;" /></a>
  
- </div> 
+</div> 

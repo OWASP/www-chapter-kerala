@@ -71,7 +71,7 @@ order: 2
 **Event gallery**
  
  <div class="col">
-   <a href="../assets/images/Kerala_chapter_meet_nov_2016_1.jpg" target="new"><img src="../assets/images/Kerala_chapter_meet_nov_2016_1.jpg"   style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Team" title="Team"/></a>
-   <a href="../assets/images/Kerala_chapter_meet_nov_2016_2.jpg" target="new"><img src="../assets/images/Kerala_chapter_meet_nov_2016_2.jpg"   style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Rejah Rehim" title="Rejah Rehim" /></a>
+   <a href="../assets/images/Kerala_chapter_meet_nov_2016_1.jpg" target="new"><img src="../assets/images/Kerala_chapter_meet_nov_2016_1.jpg"   style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Audience" title="Audience"/></a>
+   <a href="../assets/images/Kerala_chapter_meet_nov_2016_2.jpg" target="new"><img src="../assets/images/Kerala_chapter_meet_nov_2016_2.jpg"   style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" /></a>
  </div> 
 
