@@ -7,7 +7,7 @@ order: 2
 
 [Home](../index.html)
 
-<!-- ![Banner](/assets/images/Kerala_chapter_meet_september_2016_flyer.jpg) -->
+
 
 ## OWASP Kerala Chapter Meet November 2016
 
