@@ -82,17 +82,17 @@ tags: kerala
 
   [OWASP Kerala Chapter Student outreach initiative August 17th 2015 @ Baselios Mathews II College of Engineering, Sasthamcotta (11:00 AM to 1:00 PM )](events/17August2015)
 
-July 10th, 2015
+**July 10th, 2015**
 
-    OWASP Kerala Chapter Student outreach initiative July 10th 2015 @ College of Engineering, Perumon, Kollom (9:30 AM to 2:00 PM )
+[OWASP Kerala Chapter Student outreach initiative July 10th 2015 @ College of Engineering, Perumon, Kollom (9:30 AM to 2:00 PM )](events/july2015)
 
-April 10th, 2015
+**April 10th, 2015**
 
-    OWASP Kerala Chapter Meet April 10th 2015 @ Central Computing Facility [CCF], IIITM-K, Technopark Campus, Trivandrum (2:30 PM to 5:30 PM )
+[OWASP Kerala Chapter Meet April 10th 2015 @ Central Computing Facility [CCF], IIITM-K, Technopark Campus, Trivandrum (2:30 PM to 5:30 PM )](events/april2015)
 
-February 20th, 2015
+**February 20th, 2015**
 
-    Green Contributions of Application Security @ Heera College of Engineering and Technology, Trivandrum, Kerala (10:00 AM to 12:00 PM)
+[Green Contributions of Application Security @ Heera College of Engineering and Technology, Trivandrum, Kerala (10:00 AM to 12:00 PM)](events/february2015)
 
 **December 3rd, 2014**
 

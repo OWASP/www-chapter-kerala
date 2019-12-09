@@ -4,7 +4,8 @@ displaytext: Past Events
 layout: col-sidebar
 order: 2
 ---
-<a href="../index.html" class="previous">&laquo; Home</a>
+
+[Home](../index.html)
 
 
 **Kerala chapter Board Planning Meeting Nov 2018 - AppFabs**
