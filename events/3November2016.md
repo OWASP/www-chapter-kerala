@@ -1,5 +1,5 @@
 ---
-title: Kerala chapter meet sep 2016 iiitmk
+title: Kerala chapter meet November 2016 iiitmk
 displaytext: Past Events
 layout: col-sidebar
 order: 2
@@ -7,7 +7,7 @@ order: 2
 
 [Home](../index.html)
 
-![Banner](/assets/images/Kerala_chapter_meet_september_2016_flyer.jpg)
+
 
 ## OWASP Kerala Chapter Meet November 2016
 
@@ -67,3 +67,11 @@ order: 2
    * Introduction to DPAPI
 
    * Secret Manager
+
+**Event gallery**
+ 
+ <div class="col">
+   <a href="../assets/images/Kerala_chapter_meet_nov_2016_1.jpg" target="new"><img src="../assets/images/Kerala_chapter_meet_nov_2016_1.jpg"   style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" alt="Audience" title="Audience"/></a>
+   <a href="../assets/images/Kerala_chapter_meet_nov_2016_2.jpg" target="new"><img src="../assets/images/Kerala_chapter_meet_nov_2016_2.jpg"   style="display: inline-block;max-width: 98%;height: auto;width: 40%;margin: 1%;" /></a>
+ </div> 
+
