@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: OWASP kerala
+title: OWASP Kerala
 tags: kerala chapter india
 level: 4
 region: Asia
