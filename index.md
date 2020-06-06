@@ -31,4 +31,4 @@ OWASP Kerala is organizing a one day conference on Application Security on 01-De
 ### Upcoming Event
 June 7th 2020
 
-OWASP  Chapters All Day, June 7th 2020 @ [Online](https://www.youtube.com/channel/UCJNkJT42qFOBdnD8pCpelrw) 
+OWASP  Chapters All Day, June 7th 2020 - 10:45 AM t0 11:45 AM @ [Online](https://www.youtube.com/channel/UCJNkJT42qFOBdnD8pCpelrw) 
