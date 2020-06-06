@@ -21,17 +21,6 @@ Would you like to speak on the upcoming OWASP Kerala AppSec Conference?
 Web Applications Security Leaders, Software Engineers, Security Enthusiasts and Researchers from all over the world are invited to be a part of the conference for the visibility and evolution in the safety and security of the world’s software.
 
 
-### Important Dates:
-
-<strong>CFP Opens:</strong> Wednesday, 14th November 2018 @ 9:00 AM IST
-
-<strong>CFP Closes:</strong> Tuesday, 20th November 2018 @ 5:00 PM IST
-
-<strong>Program Announced:</strong> Wednesday, 5th December 2018
-
-<strong>Conference Date:</strong> 16-Dec-2018
-
-
 Please submit your Profile and the paper abstract via email to <strong>[OWASP CFP](mailto:owaspcfp@gmail.com).</strong>
 <hr>
 
@@ -40,6 +29,6 @@ Please submit your Profile and the paper abstract via email to <strong>[OWASP CF
 OWASP Kerala is organizing a one day conference on Application Security on 01-Dec-2018. We are inviting papers on Application Security for the conference. Please watch this space for more details.
 
 ### Upcoming Event
-July 25th 2019
+June 7th 2020
 
-  Codsec 2019, July 25th 2019 @ Amphitheater C-DAC, Technopark Campus phase 1 
+OWASP  Chapters All Day, June 7th 2020 @ [Online](https://www.youtube.com/channel/UCJNkJT42qFOBdnD8pCpelrw) 
