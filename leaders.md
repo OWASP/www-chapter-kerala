@@ -1,6 +1,6 @@
 ### Leaders
 
-* [Rejah Rehim](mailto://rejah.rehim@owasp.org) - Appfabs [Chapter Leader]
+* [Rejah Rehim](mailto://rejah.rehim@owasp.org) - Beagle Security [Chapter Leader]
 * [Rajesh Nair](mailto://rajesh.nair@owasp.org) - Envestnet [Chapter Co-Leader]
 * [Sreenath Sasikumar](mailto://sreenath.sasikumar@owasp.org) - Mashupstack [Chapter Co-Leader]
 * [Adarsh Nair](mailto://adarsh.nair@owasp.org ) - UST Global [Chapter Co-Leader]
@@ -17,7 +17,7 @@
 #### Academics Coordinators
 
 * [Adarsh Nair](mailto://adarsh.nair@owasp.org ) - UST Global
-* [Rejah Rehim](mailto://rejah.rehim@owasp.org) - Appfabs
+* [Rejah Rehim](mailto://rejah.rehim@owasp.org) - Beagle Security
 
 #### Women in AppSec Coordinators
 

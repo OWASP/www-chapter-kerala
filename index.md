@@ -29,7 +29,14 @@ Please submit your Profile and the paper abstract via email to <strong>[OWASP CF
 OWASP Kerala is organizing a one day conference on Application Security on 01-Dec-2018. We are inviting papers on Application Security for the conference. Please watch this space for more details.
 
 ### Upcoming Event
-July 10th - 15th 2020
+July 19th 2020
+
+![Kerala chapter Meet - Buffer Overflow for Noobs](../assets/images/Buffer-overflow-for-noobs.jpeg)
+
+[Buffer overflow for Noobs](events/19-july-2020)
+
+
+Aug 10th - 15th 2020
 
 [HacKP - Hackathon in association with Kerala police CyberDome](https://hackp.kerala.gov.in)
-
+Buffer-overflow-for-noobs.jpeg
