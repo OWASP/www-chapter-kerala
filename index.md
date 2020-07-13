@@ -29,6 +29,7 @@ Please submit your Profile and the paper abstract via email to <strong>[OWASP CF
 OWASP Kerala is organizing a one day conference on Application Security on 01-Dec-2018. We are inviting papers on Application Security for the conference. Please watch this space for more details.
 
 ### Upcoming Event
-June 7th 2020
+July 10th - 15th 2020
 
-OWASP  Chapters All Day, June 7th 2020 - 10:45 AM t0 11:45 AM @ [Online](https://www.youtube.com/channel/UCJNkJT42qFOBdnD8pCpelrw) 
+[HacKP - Hackathon in association with Kerala police CyberDome](https://hackp.kerala.gov.in)
+
