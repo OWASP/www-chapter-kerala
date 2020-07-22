@@ -30,6 +30,11 @@ OWASP Kerala is organizing a one day conference on Application Security on 01-De
 
 ### Upcoming Event
 
-Aug 10th - 15th 2020
+- Aug 10th - 15th 2020
 
 [HacKP - Hackathon in association with Kerala police CyberDome](https://hackp.kerala.gov.in)
+
+
+- Aug 18th 2020, 6PM IST
+
+[Kerala chapter Meet - Pen testing Blockchain Solutions (Ethereum Nodes & Smart Contracts) - Webinar](events/18-aug-2020.md)
