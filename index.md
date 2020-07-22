@@ -35,8 +35,8 @@ OWASP Kerala is organizing a one day conference on Application Security on 01-De
 [HacKP - Hackathon in association with Kerala police CyberDome](https://hackp.kerala.gov.in)
 
 
-- Aug 18th 2020, 6PM IST
+- Aug 22th 2020, 6PM IST
 
-![Pentesting Blockchain Solutions](assets/images/event-18-aug_wide.png)
+![Pentesting Blockchain Solutions](assets/images/event-22-aug_wide.png)
 
-[Kerala chapter Meet - Pen testing Blockchain Solutions (Ethereum Nodes & Smart Contracts) - Webinar](events/18-aug-2020.md)
+[Kerala chapter Meet - Pen testing Blockchain Solutions (Ethereum Nodes & Smart Contracts) - Webinar](events/22-aug-2020.md)
