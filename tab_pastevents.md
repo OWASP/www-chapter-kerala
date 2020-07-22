@@ -9,6 +9,10 @@ tags: kerala
 ---
 
 ## Past Events
+**July 19th 2020**
+
+[Buffer overflow for Noobs - 19th July 2020 - 3PM to 5PM IST](events/19-july-2020)
+
 **June 7th 2020**
 
 [OWASP  Chapters All Day, June 7th 2020 - 10:45 AM t0 11:45 AM @ Online](https://www.youtube.com/channel/UCJNkJT42qFOBdnD8pCpelrw)
