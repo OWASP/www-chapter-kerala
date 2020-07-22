@@ -37,4 +37,6 @@ OWASP Kerala is organizing a one day conference on Application Security on 01-De
 
 - Aug 18th 2020, 6PM IST
 
+![Pentesting Blockchain Solutions](assets/images/event-18-aug_wide.png)
+
 [Kerala chapter Meet - Pen testing Blockchain Solutions (Ethereum Nodes & Smart Contracts) - Webinar](events/18-aug-2020.md)
