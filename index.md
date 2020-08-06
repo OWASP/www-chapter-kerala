@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Kerala
 tags: kerala chapter india
 level: 4
-region: Asi
+region: Asia
 meetup-group: OWASP-Kerala-Chapter
 country: India
 postal-code: 
