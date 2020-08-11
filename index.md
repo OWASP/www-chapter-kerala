@@ -34,15 +34,6 @@ OWASP Kerala is organizing a one day conference on Application Security on 01-De
 
 ### Upcoming Event
 
-- Aug 4th 2020, 7PM IST
-
-![How to run an Appsec program with open source tools (OWASP)](assets/images/vandana_owasp_2.png)
-[How to run an Appsec program with open source tools (OWASP) - Webinar](events/4-aug-2020.md)
-
-- Aug 15th 2020, 10 AM IST
-
-[HacKP - Hackathon in association with Kerala police CyberDome](https://hackp.kerala.gov.in)
-
 - Aug 22th 2020, 6PM IST
 
 ![Pentesting Blockchain Solutions](assets/images/event-22-aug_wide.png)
