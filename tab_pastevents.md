@@ -9,6 +9,10 @@ tags: kerala
 ---
 
 ## Past Events
+**August 22nd 2020**
+
+[Kerala chapter Meet - Pen testing Blockchain Solutions (Ethereum Nodes & Smart Contracts) - Webinar](events/22-aug-2020.md)
+
 **July 19th 2020**
 
 [Buffer overflow for Noobs - 19th July 2020 - 3PM to 5PM IST](events/19-july-2020)
