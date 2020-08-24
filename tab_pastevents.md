@@ -9,9 +9,10 @@ tags: kerala
 ---
 
 ## Past Events
+
 **August 22nd 2020**
 
-[Kerala chapter Meet - Pen testing Blockchain Solutions (Ethereum Nodes & Smart Contracts) - Webinar](events/22-aug-2020.md)
+[Kerala chapter Meet - Pen testing Blockchain Solutions (Ethereum Nodes & Smart Contracts) - Webinar - 22nd Aug 2020 - 6PM to 8PM IST](events/22-aug-2020)
 
 **July 19th 2020**
 
