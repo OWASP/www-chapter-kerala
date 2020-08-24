@@ -34,7 +34,7 @@ OWASP Kerala is organizing a one day conference on Application Security on 01-De
 
 ### Upcoming Event
 
-- Aug 22th 2020, 6PM IST
+- Aug 29th 2020, 4PM IST
 
 ![Empowering tips on Online Safety for Working Women](assets/images/event-29-aug.png)
 
