@@ -6,7 +6,7 @@ level: 4
 region: Asia
 meetup-group: OWASP-Kerala-Chapter
 country: India
-postal-code: 
+postal-code: 695581
 
 ---
 
@@ -34,8 +34,6 @@ OWASP Kerala is organizing a one day conference on Application Security on 01-De
 
 ### Upcoming Event
 
-- Aug 29th 2020, 4PM IST
+#### Aug 29th 2020, 4PM IST - [Empowering tips on Online Safety for Working Women - Webinar](events/29-aug-2020.md)
 
 ![Empowering tips on Online Safety for Working Women](assets/images/event-29-aug.png)
-
-[Empowering tips on Online Safety for Working Women - Webinar](events/29-aug-2020.md)
