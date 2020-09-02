@@ -30,10 +30,6 @@ Please submit your Profile and the paper abstract via email to <strong>[OWASP CF
 
 ### Local News
 
-OWASP Kerala is organizing a one day conference on Application Security on 01-Dec-2018. We are inviting papers on Application Security for the conference. Please watch this space for more details.
-
 ### Upcoming Event
 
-#### Aug 29th 2020, 4PM IST - [Empowering tips on Online Safety for Working Women - Webinar](events/29-aug-2020.md)
-
-![Empowering tips on Online Safety for Working Women](assets/images/event-29-aug.png)
+Will update soon

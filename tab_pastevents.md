@@ -10,6 +10,10 @@ tags: kerala
 
 ## Past Events
 
+**August 29th 2020**
+
+[Empowering tips on Online Safety for Working Women - Webinar](events/29-aug-2020)
+
 **August 22nd 2020**
 
 [Kerala chapter Meet - Pen testing Blockchain Solutions (Ethereum Nodes & Smart Contracts) - Webinar - 22nd Aug 2020 - 6PM to 8PM IST](events/22-aug-2020)
