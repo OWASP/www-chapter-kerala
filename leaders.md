@@ -11,25 +11,23 @@
 
 #### Conference Coordinators
 
-* [Sreenath Sasikumar](mailto:sreenath.sasikumar@owasp.org) - Mashupstack
-* Arun S Kumar - UST Global
+* [Adarsh Nair](mailto:adarsh.nair@owasp.org ) - UST Global
+* Arun Suresh Kumar - UST Global
 
 #### Academics Coordinators
 
 * [Adarsh Nair](mailto:adarsh.nair@owasp.org ) - UST Global
 * [Rejah Rehim](mailto:rejah.rehim@owasp.org) - Beagle Security
-
-#### Women in AppSec Coordinators
-
-* Sreelakshmy P - EY
+* [Sreenath Sasikumar](mailto:sreenath.sasikumar@owasp.org) - Mashupstack
 
 #### Workshops & CTF Coordinators
 
-* Danesh Elias - Shieldhub
-* Sreehari Haridas - UST Global
 * Nash N Sulthan - Appfabs
+* Manieendar Mohan - Beagle Security
+
 
 #### PR & Marketing Coordinators
 
-* Hemanth Joseph - UST Global
-* Sudin N K - UST Global 
+* Hemanth Joseph
+* Anees P K - Beagle Security
+* Shibin B Shaji - UST Global
