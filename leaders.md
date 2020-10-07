@@ -24,6 +24,7 @@
 
 * Nash N Sulthan - Appfabs
 * Manieendar Mohan - Beagle Security
+* Faizal Ashruf - UST Global
 
 
 #### PR & Marketing Coordinators
