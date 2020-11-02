@@ -32,4 +32,8 @@ Please submit your Profile and the paper abstract via email to <strong>[OWASP CF
 
 ### Upcoming Event
 
-Will update soon
+#### August 29th 2020
+
+[The Virtual Virus of 2020](events/7-nov-2020)
+
+![The Virtual Virus of 2020](assets/images/event-7-nov_wide.png)
