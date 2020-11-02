@@ -10,6 +10,10 @@ tags: kerala
 
 ## Past Events
 
+**October 7th 2020**
+
+[OWASP Kerala Chapter Board Planning Meeting](events/07October2020)
+
 **August 29th 2020**
 
 [Empowering tips on Online Safety for Working Women - Webinar](events/29-aug-2020)
