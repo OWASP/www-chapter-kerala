@@ -10,6 +10,10 @@ tags: kerala
 
 ## Past Events
 
+**November 7th 2020**
+
+[The Virtual Virus of 2020](events/7-nov-2020)
+
 **October 7th 2020**
 
 [OWASP Kerala Chapter Board Planning Meeting](events/07October2020)
