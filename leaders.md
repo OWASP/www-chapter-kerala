@@ -12,7 +12,7 @@
 #### Conference Coordinators
 
 * [Adarsh Nair](mailto:adarsh.nair@owasp.org )
-* Arun Suresh Kumar - UST Global
+* Arun Suresh Kumar
 
 #### Academics Coordinators
 
