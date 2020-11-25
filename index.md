@@ -32,8 +32,6 @@ Please submit your Profile and the paper abstract via email to <strong>[OWASP CF
 
 ### Upcoming Event
 
-#### August 29th 2020
+#### December 5th 2020
 
-[The Virtual Virus of 2020](events/7-nov-2020)
-
-![The Virtual Virus of 2020](assets/images/event-7-nov_wide.png)
+- SQL Injection detection techniques
