@@ -2,8 +2,11 @@
 
 * [Rejah Rehim](mailto:rejah.rehim@owasp.org) 
 * [Adarsh Nair](mailto:adarsh.nair@owasp.org )
+
+### Board Members
+
 * [Rajesh Nair](mailto:rajesh.nair@owasp.org) 
-* [Sreenath Sasikumar](mailto:sreenath.sasikumar@owasp.org) 
+* [Sreenath Sasikumar](mailto:) 
 
 #### Finance Coordinators
 
