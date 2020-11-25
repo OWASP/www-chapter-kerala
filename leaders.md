@@ -1,9 +1,9 @@
 ### Leaders
 
 * [Rejah Rehim](mailto:rejah.rehim@owasp.org) [Chapter Leader]
+* [Adarsh Nair](mailto:adarsh.nair@owasp.org ) [Chapter Co-Leader]
 * [Rajesh Nair](mailto:rajesh.nair@owasp.org) [Chapter Co-Leader]
 * [Sreenath Sasikumar](mailto:sreenath.sasikumar@owasp.org) [Chapter Co-Leader]
-* [Adarsh Nair](mailto:adarsh.nair@owasp.org ) [Chapter Co-Leader]
 
 #### Finance Coordinators
 
