@@ -20,6 +20,10 @@
 * [Rejah Rehim](mailto:rejah.rehim@owasp.org) - Beagle Security
 * [Sreenath Sasikumar](mailto:sreenath.sasikumar@owasp.org) - Mashupstack
 
+#### Women in AppSec Coordinators
+
+* Meera J - UST Global
+
 #### Workshops & CTF Coordinators
 
 * Nash N Sulthan - Appfabs
