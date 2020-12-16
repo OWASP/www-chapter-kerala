@@ -33,4 +33,4 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 - [Eliminate SQL Injection on the planet - Easy and precise detection](19-dec-2020)
 
-![Eliminate SQL Injection on the planet - Easy and precise detection](../assets/images/event-19-dec_wide.png)
+![Eliminate SQL Injection on the planet - Easy and precise detection](assets/images/event-19-dec_wide.png)
