@@ -23,6 +23,10 @@
 * [Rejah Rehim](mailto:rejah.rehim@owasp.org)
 * [Sreenath Sasikumar](mailto:sreenath.sasikumar@owasp.org)
 
+#### Women in AppSec Coordinators
+
+* Meera J - UST Global
+
 #### Workshops & CTF Coordinators
 
 * Nash N Sulthan
