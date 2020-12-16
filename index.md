@@ -14,9 +14,7 @@ OWASP Kerala Chapter was founded in the mid of 2006 by a group of security enthu
 
 OWASP provides speakers to Institution of Engineers for Wednesday technical talks related to application security they organize. OWASP also provides speakers to Computer Society of India for technical sessions related to application security they organize.
 
-
 ## Speakers
-<hr>
 
 Would you like to speak on the upcoming OWASP Kerala AppSec Conference?
 
@@ -25,13 +23,14 @@ Would you like to speak on the upcoming OWASP Kerala AppSec Conference?
 Web Applications Security Leaders, Software Engineers, Security Enthusiasts and Researchers from all over the world are invited to be a part of the conference for the visibility and evolution in the safety and security of the world’s software.
 
 
-Please submit your Profile and the paper abstract via email to <strong>[OWASP CFP](mailto:owaspcfp@gmail.com).</strong>
-<hr>
+Please submit your Profile and the paper abstract here **[OWASP CFP](https://forms.gle/9HaieZZiHHKKKQzQ7)**.
 
 ### Local News
 
 ### Upcoming Event
 
-#### December 5th 2020
+#### December 19th 2020
 
-- SQL Injection detection techniques
+- [Eliminate SQL Injection on the planet - Easy and precise detection](19-dec-2020)
+
+![Eliminate SQL Injection on the planet - Easy and precise detection](../assets/images/event-19-dec_wide.png)

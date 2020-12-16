@@ -1,12 +1,12 @@
 ### Leaders
 
-* [Rejah Rehim](mailto:rejah.rehim@owasp.org) 
-* [Adarsh Nair](mailto:adarsh.nair@owasp.org )
+* [Rejah Rehim](mailto:rejah.rehim@owasp.org)
+* [Adarsh Nair](mailto:adarsh.nair@owasp.org)
 
 ### Board Members
 
-* [Rajesh Nair](mailto:rajesh.nair@owasp.org) 
-* [Sreenath Sasikumar](mailto:) 
+* [Rajesh Nair](mailto:rajesh.nair@owasp.org)
+* [Sreenath Sasikumar](mailto:sreenath.sasikumar@owasp.org)
 
 #### Finance Coordinators
 
@@ -25,7 +25,7 @@
 
 #### Women in AppSec Coordinators
 
-* Meera J - UST Global
+* Meera J
 
 #### Workshops & CTF Coordinators
 
@@ -36,5 +36,5 @@
 #### PR & Marketing Coordinators
 
 * Hemanth Joseph
-* Anees P K 
+* Anees P K
 * Shibin B Shaji
