@@ -6,7 +6,7 @@
 ### Board Members
 
 * [Rajesh Nair](mailto:rajesh.nair@owasp.org)
-* [Sreenath Sasikumar](mailto:sreenath.sasikumar@owasp.org)
+* Sreenath Sasikumar
 
 #### Finance Coordinators
 
@@ -21,7 +21,7 @@
 
 * [Adarsh Nair](mailto:adarsh.nair@owasp.org )
 * [Rejah Rehim](mailto:rejah.rehim@owasp.org)
-* [Sreenath Sasikumar](mailto:sreenath.sasikumar@owasp.org)
+* Sreenath Sasikumar
 
 #### Women in AppSec Coordinators
 
