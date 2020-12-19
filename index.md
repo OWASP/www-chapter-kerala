@@ -29,8 +29,4 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 ### Upcoming Event
 
-#### December 19th 2020
-
-- [Eliminate SQL Injection on the planet - Easy and precise detection](events/19-dec-2020)
-
-![Eliminate SQL Injection on the planet - Easy and precise detection](assets/images/event-19-dec_wide.png)
+#### January 9th 2021
