@@ -7,6 +7,7 @@
 
 ### Downloads or Social Links
 * [Download]()
+* [Discord](https://discord.gg/Vnz65mvC7E)
 * [Meetup](https://www.meetup.com/OWASP-Kerala-Chapter/)
 * [Facebook](https://www.facebook.com/OWASPKerala)
 * [LinkedIn](https://www.linkedin.com/groups/6753561/)
