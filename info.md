@@ -1,10 +1,3 @@
-### Kerala Information
-* [Flagship Project]()
-* [Tool Project]()
-* [Version 2.8.0]()
-* [Builder]()
-* [Breaker]()
-
 ### Social Links
 * [Discord](https://discord.gg/Vnz65mvC7E)
 * [Meetup](https://www.meetup.com/OWASP-Kerala-Chapter/)
@@ -14,9 +7,3 @@
 * [YouTube](https://www.youtube.com/channel/UCKz8vonTKMvyuco9e6kJ-NA)
 
 <iframe src="https://discord.com/widget?id=733989498731364364&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
-### Code Repository
-* [GitHub](https://github.com/OWASP/www-chapter-kerala)
-
-### Change Log
-* [changes]()
