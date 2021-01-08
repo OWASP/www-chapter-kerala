@@ -29,4 +29,9 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 ### Upcoming Event
 
-#### January 9th 2021
+#### January 16th 2021
+
+
+### Join Our Discord
+
+<iframe src="https://discord.com/widget?id=733989498731364364&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
