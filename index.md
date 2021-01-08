@@ -30,3 +30,6 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 ### Upcoming Event
 
 #### January 16th 2021
+
+### Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
