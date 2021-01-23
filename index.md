@@ -27,9 +27,8 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 ### Local News
 
-### Upcoming Event
+### Upcoming Meetup Events
 
-#### January 16th 2021
-
-### Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
+
+ [![Leveraging Security Psychology](assets/images/event-30-jan_wide.png)](30-jan-2021)

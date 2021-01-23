@@ -12,11 +12,11 @@ tags: kerala
 
 **December 19th 2020**
 
-- [Eliminate SQL Injection on the planet - Easy and precise detection](events/19-dec-2020)
+[Eliminate SQL Injection on the planet - Easy and precise detection](events/19-dec-2020)
 
 **December 13th 2020**
 
-- [OWASP Kerala Chapter Board Planning Meeting](events/13Decemeber2020)
+[OWASP Kerala Chapter Board Planning Meeting](events/13Decemeber2020)
 
 **November 7th 2020**
 
