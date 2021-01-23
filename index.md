@@ -31,4 +31,4 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 {% include chapter_events.html group=page.meetup-group %}
 
- [![Leveraging Security Psychology](assets/images/event-30-jan_wide.png)](30-jan-2021)
+ [![Leveraging Security Psychology](assets/images/event-30-jan_wide.png)](events/30-jan-2021)
