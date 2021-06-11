@@ -10,6 +10,10 @@ tags: kerala
 
 ## Past Events
 
+**June 09th 2021**
+
+[Kerala chapter Clubhouse Meet -Careers in Cybersecurity - Malayalam](events/09June2021-Event)
+
 **December 19th 2020**
 
 [Eliminate SQL Injection on the planet - Easy and precise detection](events/19-dec-2020)
