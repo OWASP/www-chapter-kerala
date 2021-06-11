@@ -10,7 +10,6 @@ order: 2
 
 **Kerala chapter Clubhouse Meet -Careers in Cybersecurity - Malayalam**
 
-[Watch the recorded version here](https://youtu.be/glBz2oZEe6Q)
 
 ![Kerala chapter Clubhouse Meet -Careers in Cybersecurity - Malayalam](../assets/images/clubhouse-event-careers-in-cybersecurity-malayalam.jpeg)
 
@@ -18,9 +17,16 @@ order: 2
 - Date and time:
     - 9th June 2021 , 8:40PM to 10:40PM IST
 - Speaker:
-    - Shibin B Shaji, Security Engineer | UST Global,
-    - Mohammed Shine, Security Engineer | UST Global,
-    - Anil Tom, Security Engineer | UST Global
+    - Adarsh S Nair
+    - Hemanth Joseph
+    - Arun Sureshkumar
+    - Rejah Rehim
+    - Anees Muhammed
+    - Nash N sulthan 
+    - Manieendar Mohan
+    - Shibin B Shaji
+    - Meera
+    - Faizal
 
 Discussion regarding various emerging and trending career oppuritunity in Cybersecurity
 
