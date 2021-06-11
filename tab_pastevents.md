@@ -14,6 +14,10 @@ tags: kerala
 
 [Kerala chapter Clubhouse Meet -Careers in Cybersecurity - Malayalam](events/09June2021-Event)
 
+**June 09th 2021**
+
+[OWASP Kerala Chapter Board Planning Meeting](events/09June2021)
+
 **December 19th 2020**
 
 [Eliminate SQL Injection on the planet - Easy and precise detection](events/19-dec-2020)
