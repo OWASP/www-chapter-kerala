@@ -29,6 +29,10 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 ### Upcoming Meetup Events
 
-{% include chapter_events.html group=page.meetup-group %}
+ {% include chapter_events.html group=page.meetup-group %}
+We will be conducting Clubhouse Meet every **Saturday**
 
- [![Leveraging Security Psychology](assets/images/event-30-jan_wide.png)](events/30-jan-2021)
+
+ <video width="60%" height="60%" autoplay muted>
+ <source src="assets/images/jun_09_2021.mp4" type="video/mp4">
+ </video>
