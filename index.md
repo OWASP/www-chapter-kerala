@@ -29,6 +29,7 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 ### Upcoming Meetup Events
 
+ {% include chapter_events.html group=page.meetup-group %}
 We will be conducting Clubhouse Meet every **Saturday**
 
 
