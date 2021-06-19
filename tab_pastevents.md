@@ -10,6 +10,10 @@ tags: kerala
 
 ## Past Events
 
+**June 19th 2021**
+
+[Kerala chapter Clubhouse Meet -Stay Safe Online - Malayalam](events/19june2021-Event)
+
 **June 09th 2021**
 
 [Kerala chapter Clubhouse Meet -Careers in Cybersecurity - Malayalam](events/09June2021-Event)
