@@ -22,6 +22,10 @@ tags: kerala
 
 [OWASP Kerala Chapter Board Planning Meeting](events/09June2021)
 
+**Jan 30th 2021**
+
+[Leveraging Security Psychology - Webinar](events/30-jan-2021)
+
 **December 19th 2020**
 
 [Eliminate SQL Injection on the planet - Easy and precise detection](events/19-dec-2020)
