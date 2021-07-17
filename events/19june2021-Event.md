@@ -24,8 +24,8 @@ order: 2
     - Nash N sulthan 
     - Manieendar Mohan
     - Shibin B Shaji
-    - Meera
-    - Faizal
+    - Meera J
+    - Faizal Ashruf
     - Anand
 
 Discussion on the aspects of maintaining internet sanity and various emerging threats in cyberspace and how to stay safe from them
