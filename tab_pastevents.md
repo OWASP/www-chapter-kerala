@@ -14,6 +14,10 @@ tags: kerala
 
 [Kerala chapter Clubhouse Meet -OWASP Top 10 - Malayalam](events/17july2021-Event)
 
+**June 29th 2021**
+
+[Kerala chapter Clubhouse Meet - Financial Fraud and Prevention - Malayalam](events/29june2021)
+
 **June 19th 2021**
 
 [Kerala chapter Clubhouse Meet -Stay Safe Online - Malayalam](events/19june2021-Event)
