@@ -32,8 +32,8 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
  {% include chapter_events.html group=page.meetup-group %}
 We will be conducting Clubhouse Meet every **Wednesday**
 
-[ClubHouse meet - Financial Fraud and Prevention - Malayalam, Jun 29th 7PM IST](https://www.clubhouse.com/join/owasp-kerala/HqHn9xW4/xpXlDRQz)
-![Financial Fraud and Prevention - Malayalam](./assets/images/clubhouse-event-financial-fraud-and-prevention.jpeg)
+[ClubHouse meet - OWASP Top 10 - Malayalam, Jul 17th 7PM IST](https://www.clubhouse.com/join/owasp-kerala/HqHn9xW4/xpXlDRQz)
+![OWASP Top 10 - Malayalam](./assets/images/clubhouse-event-owasp-top-10.jpeg)
 
  <video width="60%" height="60%" autoplay muted>
  <source src="assets/images/jun_09_2021.mp4" type="video/mp4">

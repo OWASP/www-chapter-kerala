@@ -26,7 +26,7 @@ order: 2
     - Manieendar Mohan
     - Shibin B Shaji
     - Meera
-    - Faizal
+    - Faizal Ashruf
 
 Discussion regarding various emerging and trending career oppuritunity in Cybersecurity
 

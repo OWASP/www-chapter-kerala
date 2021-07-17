@@ -10,6 +10,10 @@ tags: kerala
 
 ## Past Events
 
+**July 17th 2021**
+
+[Kerala chapter Clubhouse Meet -OWASP Top 10 - Malayalam](events/17july2021-Event)
+
 **June 19th 2021**
 
 [Kerala chapter Clubhouse Meet -Stay Safe Online - Malayalam](events/19june2021-Event)
