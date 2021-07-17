@@ -15,13 +15,13 @@ order: 2
 
 
 - Date and time:
-    - 9th June 2021 , 8:40PM to 10:40PM IST
+    - 17th July 2021 , 7:00PM to 08:30PM IST
 - Speaker:
     - Adarsh S Nair
     - Rejah Rehim
     - Manieendar Mohan
     - Shibin B Shaji
-    - Meera
+    - Meera J
     - Faizal Ashruf
 
 Discussion on OWASP Top 10 and how it provides ranking and remediation guidance for the topmost critical web application security risks
