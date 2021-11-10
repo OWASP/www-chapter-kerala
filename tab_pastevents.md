@@ -10,6 +10,9 @@ tags: kerala
 
 ## Past Events
 
+**Sept 24th, 25th & 26th 2021**
+[OWASP Top 10 Workshop for Sreepathy Institute of Management And Technology]
+
 **July 17th 2021**
 
 [Kerala chapter Clubhouse Meet -OWASP Top 10 - Malayalam](events/17july2021-Event)
