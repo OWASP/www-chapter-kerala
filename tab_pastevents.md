@@ -11,7 +11,8 @@ tags: kerala
 ## Past Events
 
 **Sept 24th, 25th & 26th 2021**
-[OWASP Top 10 Workshop for Sreepathy Institute of Management And Technology]
+
+[OWASP Top 10 Workshop for Sreepathy Institute of Management And Technology](events/24-sep-2021)
 
 **July 17th 2021**
 
