@@ -32,9 +32,13 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
  {% include chapter_events.html group=page.meetup-group %}
 We will be conducting Clubhouse Meet every **Wednesday**
 
-[OWASP TOP 10 Vulnerabilities - 3 Day Workshop - 24,25 & 26 Sep 2021](events/1724-sep-2021)
+[OWASP Kerala - Chapter meet - 28th May 2022](events/28-may-2022)
 
-<video width="60%" height="60%" autoplay muted>
+![OWASP Kerala - Chapter Meet May 2022](assets/images/owasp-kerala-chapter-meet-may-2022.png)
+
+
+### [Register Now](https://www.meetup.com/OWASP-Kerala-Chapter/events/286068353/)
+
+<!-- <video width="60%" height="60%" autoplay muted>
 <source src="assets/images/jun_09_2021.mp4" type="video/mp4">
-</video>
-
+</video> -->
