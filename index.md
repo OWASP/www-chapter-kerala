@@ -28,16 +28,15 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 ### Local News
 
 ### Upcoming Meetup Events
-
- {% include chapter_events.html group=page.meetup-group %}
+ <!-- {% include chapter_events.html group=page.meetup-group %} -->
 <!-- We will be conducting Clubhouse Meet every **Wednesday** -->
 
-[OWASP Kerala - Chapter meet - 28th May 2022](events/28-may-2022)
+[OWASP Kerala - Cloud Security - 23rd July 2022](events/23-july-2022)
 
-![OWASP Kerala - Chapter Meet May 2022](assets/images/owasp-kerala-chapter-meet-may-2022.png)
+![OWASP Kerala - Cloud Security - 23rd July 2022](assets/images/owasp-kerala-cloud-security-july-2022.png)
 
 
-### [Register Now](https://www.meetup.com/OWASP-Kerala-Chapter/events/286068353/)
+### [Register Now](https://www.meetup.com/OWASP-Kerala-Chapter/events/287209863/)
 
 <!-- <video width="60%" height="60%" autoplay muted>
 <source src="assets/images/jun_09_2021.mp4" type="video/mp4">

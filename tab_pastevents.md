@@ -10,6 +10,10 @@ tags: kerala
 
 ## Past Events
 
+**May 28th 2022**
+
+[OWASP Kerala - Chapter meet - 28th May 2022](events/28-may-2022)
+
 **Sept 24th, 25th & 26th 2021**
 
 [OWASP Top 10 Workshop for Sreepathy Institute of Management And Technology](events/24-sep-2021)
