@@ -32,11 +32,13 @@
 #### Women in AppSec Coordinators
 
 * Meera J
+* Gincy Mol A G
+* Febna V M
 
 #### Workshops & CTF Coordinators
 
 * Nash N Sulthan
-* Manieendar Mohan
+* Manindar Mohan
 * Faizal Ashruf
 
 #### PR & Marketing Coordinators
