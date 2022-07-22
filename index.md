@@ -32,7 +32,7 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 [OWASP Kerala - Cloud Security - 23rd July 2022](events/23-july-2022)
 
-![OWASP Kerala - Cloud Security - 23rd July 2022](assets/images/owasp-kerala-cloud-security-july-2022.png)
+![OWASP Kerala - Cloud Security - 23rd July 2022](assets/images/owasp-kerala-cloud-security-july-2022.jpeg)
 
 
 ### [Register Now](https://www.meetup.com/OWASP-Kerala-Chapter/events/287209863/)
