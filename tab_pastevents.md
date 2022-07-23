@@ -10,6 +10,10 @@ tags: kerala
 
 ## Past Events
 
+**July 23rd 2022**
+
+[OWASP Kerala - Cloud Security - 23rd July 2022](events/23-july-2022)
+
 **May 28th 2022**
 
 [OWASP Kerala - Chapter meet - 28th May 2022](events/28-may-2022)
