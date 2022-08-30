@@ -9,6 +9,9 @@ tags: kerala
 ---
 
 ## Past Events
+**August 13 2022**
+
+[OWASP Kerala - The threat hunting workshop - 13rd Aug 2022](events/13-aug-2022)
 
 **July 23rd 2022**
 

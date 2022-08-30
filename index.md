@@ -30,12 +30,6 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 ### Upcoming Meetup Events
 <!-- We will be conducting Clubhouse Meet every **Wednesday** -->
 
-[OWASP Kerala - The threat hunting workshop - 13rd Aug 2022](events/13-aug-2022)
-
-![OWASP Kerala - The threat hunting workshop - 13rd Aug 2022](assets/images/owasp-kerala-threat-hunting-workshop-aug-2022.png)
-
-### [Register Now](https://www.meetup.com/OWASP-Kerala-Chapter/events/287680524/)
-
 <!-- <video width="60%" height="60%" autoplay muted>
 <source src="assets/images/jun_09_2021.mp4" type="video/mp4">
 </video> -->
