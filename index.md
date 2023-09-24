@@ -29,9 +29,9 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 ### Upcoming Meetup Events
 
-**February 8 2023**
+**September 30th 2023**
 
-[OWASP Kerala - Personal Cybersecurity Awareness - 8th Feb 2023](events/8-feb-2023)
+[OWASP Kerala - Chapter Meet May 2022](events/30-sep-2023)
 <!-- We will be conducting Clubhouse Meet every **Wednesday** -->
 
 <!-- <video width="60%" height="60%" autoplay muted>

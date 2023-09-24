@@ -9,6 +9,10 @@ tags: kerala
 ---
 
 ## Past Events
+**Feb 8 2023**
+
+[OWASP Kerala - Personal Cybersecurity Awareness](events/8-feb-2023)
+
 **August 13 2022**
 
 [OWASP Kerala - The threat hunting workshop - 13rd Aug 2022](events/13-aug-2022)
