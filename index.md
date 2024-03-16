@@ -29,7 +29,7 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 ### Upcoming Meetup Events
 
-**March 16th 2024**
+No upcoming events scheduled! Please check back soon!
 
 <!-- We will be conducting Clubhouse Meet every **Wednesday** -->
 
