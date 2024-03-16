@@ -31,7 +31,6 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 **March 16th 2024**
 
-[OWASP Kerala - Chapter Meet March 2024](events/16-mar-2024)
 <!-- We will be conducting Clubhouse Meet every **Wednesday** -->
 
 <!-- <video width="60%" height="60%" autoplay muted>
