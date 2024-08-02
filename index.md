@@ -29,10 +29,17 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 ### Upcoming Meetup Events
 
-No upcoming events scheduled! Please check back soon!
+<!-- No upcoming events scheduled! Please check back soon! -->
 
 <!-- We will be conducting Clubhouse Meet every **Wednesday** -->
 
 <!-- <video width="60%" height="60%" autoplay muted>
 <source src="assets/images/jun_09_2021.mp4" type="video/mp4">
 </video> -->
+
+<img src="/assets/images/10-aug-24-combained.jpeg" alt="Stickman" width="60%" height="60%">
+
+**August 10 2024**
+
+[OWASP Kerala - Chapter Meet August 2024](events/10August2024)
+
