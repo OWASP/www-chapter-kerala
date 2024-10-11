@@ -29,6 +29,8 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 ### Upcoming Meetup Events
 
+<img src="/assets/images/19-oct-2024-combained.png" alt="Stickman" width="60%" height="60%">
+
 **October 19th 2024**
 
 [OWASP Kerala - Chapter Meet October 2024](events/19-oct-2024)
