@@ -45,4 +45,4 @@ No upcoming events scheduled! Please check back soon!
 <img src="/assets/images/july12025.png" alt="Stickman" width="60%" height="60%">
 
 
-**[The Ultimate Cyber Security Bootcamp - OWASP Kerala - Mulearn ](/events/1july2025)**
+**[The Ultimate Cyber Security Bootcamp - OWASP Kerala - Mulearn ](/events/1july2025)**     
