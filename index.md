@@ -33,7 +33,7 @@ No upcoming events scheduled! Please check back soon!
 
 
 ### Ongoing Event
-<img src="../assets/images/july12025.png" alt="Stickman" width="60%" height="60%">
+**July 1st 2025 to September 30th 2025**
+<img src="assets/images/july12025.png" alt="Stickman" width="60%" height="60%">
 
-
-**[The Ultimate Cyber Security Bootcamp - OWASP Kerala - Mulearn ](../events/1july2025)**     
+[The Ultimate Cyber Security Bootcamp - OWASP Kerala - Mulearn ](events/1july2025)    
