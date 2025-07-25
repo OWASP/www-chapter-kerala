@@ -10,6 +10,8 @@ tags: kerala
 
 ## Past Events
 
+**August 10th 2024**
+
 [OWASP Kerala - Chapter Meet Aug 2024](events/10August2024)
 
 **Mar 16 2024**
