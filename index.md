@@ -29,11 +29,12 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 
 ### Upcoming Meetup Events
 
-<img src="assets/images/19-oct-2024-combained.png" alt="Stickman" width="60%" height="60%">
+No upcoming events scheduled! Please check back soon!
+<!-- <img src="assets/images/19-oct-2024-combained.png" alt="Stickman" width="60%" height="60%">
 
 **October 19th 2024**
 
-[OWASP Kerala - Chapter Meet October 2024](events/19-oct-2024)
+[OWASP Kerala - Chapter Meet October 2024](events/19-oct-2024) -->
 
 <!-- No upcoming events scheduled! Please check back soon! -->
 
@@ -43,9 +44,13 @@ Please submit your Profile and the paper abstract here **[OWASP CFP](https://for
 <source src="assets/images/jun_09_2021.mp4" type="video/mp4">
 </video> -->
 
+<!-- <img src="/assets/images/10-aug-24-combained.jpeg" alt="Stickman" width="60%" height="60%">
+--> 
+<!-- **August 10 2024**  -->
 <!-- <img src="/assets/images/10-aug-24-combained.png" alt="Stickman" width="60%" height="60%">
-
-**August 10 2024**
+-->
+### Ongoing Event
+<img src="/assets/images/july12025.png" alt="Stickman" width="60%" height="60%">
 
 [OWASP Kerala - Chapter Meet August 2024](events/10August2024) -->
-
+   
