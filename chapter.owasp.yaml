@@ -1,0 +1,30 @@
+community:
+  - name: chapter-kerala
+    platform: slack
+    url: https://owasp.slack.com/archives/C04SWG3DC
+    description: For OWASP Kerala chapter
+leaders:
+  - name: Rejah Rehim
+    email: rejah.rehim@owasp.org
+    github: rejahrehim
+  - name: Adarsh Nair
+    email: adarsh.nair@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Kerala
+  city: Ernakulam
+  postal_code: '695581'
+  latitude: 1.3084318
+  longitude: 103.8514547
+meetup_group: OWASP-Kerala-Chapter
+name: OWASP Kerala
+repositories:
+  - name: www-chapter-kerala
+    url: https://github.com/OWASP/www-chapter-kerala
+    description: OWASP Foundation Web Repository for OWASP Kerala Chapter
+tags:
+  - kerala
+  - chapter
+  - india
+website: https://owasp.org/www-chapter-kerala
