@@ -26,7 +26,7 @@ OWASP Kerala Chapter in association with Institution of Engineers (India) organi
 
 In commemoration of the World Computer Security day, this session deals with the latest trends and challenges in Internet Security. The World Computer Security day which was started in the year 1988 has the vision of creating awareness of computer related security issues among general public. In today’s world, the usage of Internet has proliferated manifold and new kinds of security issues emerged as a result. Gone are the ages of Anti-Virus and Network Security and we now have to deal with Application Security problems predominantly. The session will discuss the reasons behind application security issues and how OWASP emerged to address them.
 
-The session will help participants gain an understanding on Open Web Application Security Project (OWASP) and how they bring better visibility to Application Security so that people and organizations can make informed decisions about application security risks.
+The session will help participants gain an understanding on Open Worldwide Application Security Project (OWASP) and how they bring better visibility to Application Security so that people and organizations can make informed decisions about application security risks.
 
 Speaker: Rajesh is a passionate secure software programmer, technology evangelist and certified ethical hacker. He has got more than 14 years of experience in IT industry and is currently a member of OWASP Kerala Board and serves in the Management Committee of Computer Society of India, Trivandrum Chapter. He is also a Life member of Institution of Engineers (India).
 
